@@ -1,0 +1,9 @@
+# This is a simple program to multiply two numbers
+num1 = 5
+num2 = 10
+
+# Multiply two numbers
+product = num1 * num2
+
+# Display the product
+print('The product of {0} and {1} is {2}'.format(num1, num2, product))
