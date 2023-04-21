@@ -1,0 +1,13 @@
+# This is a simple program to perform addition and subtraction of two numbers
+num1 = 10
+num2 = 5
+
+# Add two numbers
+add_result = num1 + num2
+
+# Subtract two numbers
+sub_result = num1 - num2
+
+# Display the results
+print('The result of {0} plus {1} is {2}'.format(num1, num2, add_result))
+print('The result of {0} minus {1} is {2}'.format(num1, num2, sub_result))
